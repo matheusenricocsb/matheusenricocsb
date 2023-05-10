@@ -1,6 +1,6 @@
 ### Olá! Me chamo Matheus
 
-- técnico em análise e desenvolvimento de sistemas 2/3
+- técnico em análise e desenvolvimento de sistemas 3/3
 - Programação 🖤
 - Pernambucano🌵
 
