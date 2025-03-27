@@ -1,6 +1,7 @@
 ### Olá! Me chamo Matheus
 
-- técnico em análise e desenvolvimento de sistemas 3/3
+- Graduando em Engenharia da Computação no CIN/UFPE
+- Técnico em análise e desenvolvimento de sistemas 
 - Programação 🖤
 - Pernambucano🌵
 
